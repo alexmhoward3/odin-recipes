@@ -1,0 +1,1 @@
+This will be a site consisting of a few recipes. It's not going to be pretty, but I'm trying to build my HTML chops, and i'll revisit later to style it up with CSS.
